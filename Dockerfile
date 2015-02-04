@@ -1,4 +1,4 @@
-FROM ubuntu-debootstrap:trusty
+FROM ubuntu:trusty
 
 MAINTAINER Federico Feroldi
 
